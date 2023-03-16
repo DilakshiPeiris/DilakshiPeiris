@@ -3,7 +3,7 @@
 <br/>
 
 <p align="left">
-   <a href="https://www.linkedin.com/in/dilakshi-peirise/">
+   <a href="https://www.linkedin.com/in/dilakshi-peiris/">
       <img alt="LinkedIn" src="https://img.shields.io/badge/-dilakshi peiris-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dilakshi-peiris/">
   <!-- </a>
    <a href="https://twitter.com/SandeepaAluthge">
