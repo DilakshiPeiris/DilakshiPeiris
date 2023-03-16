@@ -3,17 +3,17 @@
 <br/>
 
 <p align="left">
-   <a href="https://www.linkedin.com/in/anjana-sandeepa-aluthge/">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/-AnjanaSandeepa-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anjana-sandeepa-aluthge/">
-   </a>
+   <a href="https://www.linkedin.com/in/dilakshi-peirise/">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/-dilakshi peiris-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dilakshi-peiris/">
+  <!-- </a>
    <a href="https://twitter.com/SandeepaAluthge">
       <img alt="Twitter" src="https://img.shields.io/badge/-@SandeepaAluthge-black?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/SandeepaAluthge">
+   </a> -->
+   <a href="mailto:dilakshisandeepani@gmail.com">
+      <img alt="Gmail" src="https://img.shields.io/badge/-dilakshisandeepani@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dilakshisandeepani@gmail.com">
    </a>
-   <a href="mailto:sandeepa.aluthge@gmail.com">
-      <img alt="Gmail" src="https://img.shields.io/badge/-sandeepa.aluthge@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sandeepa.aluthge@gmail.com">
-   </a>
-   <a href="https://www.facebook.com/anjanasandeepa.aluthge/">
-      <img alt="Facebook" src="https://img.shields.io/badge/-Anjana sandeepa Aluthge-black?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/anjanasandeepa.aluthge/">
+   <a href="https://www.facebook.com/######/">
+      <img alt="Facebook" src="https://img.shields.io/badge/-Dilakshi Peiris-black?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/######/">
    </a>
 </p>
 
@@ -41,11 +41,8 @@
    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/117121/pycharm.png"/> </a>
    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-   <a href="#" target="_blank"> <img src="https://img.icons8.com/icon/45348/selenium"/> </a>
-  
    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>
-  
-  
+      
   </a>
 </p>
 
