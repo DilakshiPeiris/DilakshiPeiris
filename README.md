@@ -41,9 +41,15 @@
    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/117121/pycharm.png"/> </a>
    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>
-      
-  </a>
+   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+   <a href="#" target="_blank"> <img src="https://avatars.githubusercontent.com/u/983927?s=200&v=4" alt="Selenium" width="38" height="38" style="max-width: 100%;"/> </a>
+   <a href="#" target="_blank"> <img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2020/01/TESTNG.png?resize=1536%2C864&ssl=1" alt="TestNG" width="75" height="auto" style="max-width: 100%;"/> </a>
+   <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Apache_JMeter.png" alt="jmeter" width="85" height="auto" style="max-width: 100%;"/> </a>
+   <a href="#" target="_blank"> <img src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" alt="Junit" width="45" height="auto" style="max-width: 100%;"/> </a>
+   <a href="#" target="_blank"> <img src="https://avatars.githubusercontent.com/u/379109?s=200&v=4" alt="Arduino" width="45" height="auto" style="max-width: 100%;"/> </a>
+   <a href="#" target="_blank"> <img src="https://avatars.githubusercontent.com/u/379109?s=200&v=4" alt="Arduino" width="45" height="auto" style="max-width: 100%;"/> </a>
+   <a href="#" target="_blank"> <img src="https://avatars.githubusercontent.com/u/17888735?s=200&v=4" alt="TestProject" width="45" height="auto" style="max-width: 100%;"/> </a>
+   
 </p>
 
 <a href="https://dewith.co/">
