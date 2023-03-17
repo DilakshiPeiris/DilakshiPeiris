@@ -1,4 +1,4 @@
-<h1 align="left"> Hey there, I'm Dilakshi Peiris 👋 </h1>
+<h1 align="left"> Hey there, I'm Dilakshi Peiris KOTA 👋 </h1>
 
 <br/>
 
