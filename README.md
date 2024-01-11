@@ -17,7 +17,7 @@
    </a>
 </p>
 
-<h5 align="left">  I'm undergraduate of university of Sri Jayawardenepura, following the BSC. Physical Science. Seeking an entry level position in the field of Quality Assuarance Engineer, my objective is to be a leaderand influencer,to make sure thet the project is fit to purpose and to share my experience and knowledge with team membersand to suggest any ideas contributing to the development of the project. </h5>
+<h5 align="left">  I'm a graduate of university of Sri Jayawardenepura, followed a BSC. Physical Science ICT degree. I'm Seeking associate level position in the field of Quality Assuarance Automation Engineer, my objective is to be a leaderand influencer,to make sure thet the project is fit to purpose and to share my experience and knowledge with team membersand to suggest any ideas contributing to the development of the project.I'm interested in with autuomation quality assurance. familiar tools are Selenium,Postman,RestAssured,JMeter </h5>
 
 ---
 
